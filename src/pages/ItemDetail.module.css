@@ -1,0 +1,1167 @@
+.image50Icon,
+.image53Icon,
+.image54Icon {
+    position: absolute;
+    bottom: 8px;
+    left: -8px;
+    width: 2392.79px;
+    height: 1585.76px;
+    object-fit: cover;
+    opacity: 0.2;
+    mix-blend-mode: lighten;
+}
+
+.image53Icon,
+.image54Icon {
+    bottom: 698.76px;
+    left: 1408.25px;
+    width: 830px;
+    height: 467px;
+    opacity: 0.6;
+}
+
+.image54Icon {
+    bottom: 682.76px;
+    left: 217.25px;
+    width: 784.25px;
+    height: 456px;
+}
+
+.groupDiv {
+    position: absolute;
+    bottom: -682.76px;
+    left: 102.75px;
+    width: 2376.79px;
+    height: 1585.76px;
+}
+
+.image1Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 322px;
+    height: 56px;
+    object-fit: cover;
+}
+
+.blogDiv,
+.tokenomicsDiv {
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.blogDiv {
+    text-align: center;
+}
+
+.frameDiv1 {
+    position: absolute;
+    top: 18px;
+    left: 576px;
+    width: 545px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.groupDiv1 {
+    position: absolute;
+    top: 40px;
+    left: 719px;
+    width: 1121px;
+    height: 56px;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-gray-200);
+}
+
+.leagueOfEmpires {
+    margin-block-start: 0;
+    margin-block-end: 8px;
+}
+
+.leagueOfEmpiresIsTheFirst {
+    position: absolute;
+    top: 132px;
+    left: 719px;
+    font-weight: 500;
+    display: inline-block;
+    width: 1120px;
+}
+
+.vectorIcon {
+    position: relative;
+    width: 30.73px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.vectorIcon1 {
+    width: 36.04px;
+}
+
+.medium1Icon,
+.vectorIcon1,
+.vectorIcon2 {
+    position: relative;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.medium1Icon {
+    width: 24px;
+    overflow: hidden;
+}
+
+.vectorIcon2 {
+    width: 29.61px;
+}
+
+.frameDiv2 {
+    position: absolute;
+    top: 282px;
+    left: 1146.81px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-3xl);
+}
+
+.allRightReservedCopyrigh {
+    position: absolute;
+    top: 342px;
+    left: 1186px;
+    line-height: 22px;
+    display: inline-block;
+}
+
+.rectangleDiv {
+    position: absolute;
+    top: 8px;
+    left: calc(50% - 1279.5px);
+    background-color: var(--anvuinew-gray100);
+    width: 2560px;
+    height: 1px;
+}
+
+.rec2Icon,
+.rec2Icon1,
+.rec2Icon2,
+.rec2Icon3 {
+    position: absolute;
+    top: 0;
+    left: 1328px;
+    width: 16.97px;
+    height: 24.97px;
+}
+
+.rec2Icon1,
+.rec2Icon2,
+.rec2Icon3 {
+    left: 1502px;
+}
+
+.rec2Icon2,
+.rec2Icon3 {
+    left: 1673px;
+}
+
+.rec2Icon3 {
+    left: 1817px;
+}
+
+.frameDiv {
+    position: absolute;
+    bottom: 0;
+    left: 1px;
+    width: 2559px;
+    height: 404px;
+    overflow: hidden;
+    font-size: var(--font-size-xs);
+    color: var(--color-gray-900);
+}
+
+.image26Icon,
+.image53Icon1 {
+    position: absolute;
+    top: 334px;
+    left: 1592px;
+    width: 830px;
+    height: 467px;
+    object-fit: cover;
+    opacity: 0.6;
+    mix-blend-mode: lighten;
+}
+
+.image26Icon {
+    top: 2287px;
+    left: 0;
+    width: 247.04px;
+    height: 257px;
+    opacity: 0.3;
+    mix-blend-mode: screen;
+}
+
+.rectangleDiv1 {
+    position: absolute;
+    top: 225px;
+    left: 1296px;
+    background-color: var(--color-gray-700);
+    width: 544px;
+    height: 627px;
+}
+
+.rectangleDiv2 {
+    position: absolute;
+    top: 1230px;
+    left: 1379px;
+    background-color: rgba(255, 122, 0, 0.1);
+    width: 282px;
+    height: 61px;
+}
+
+.rectangleDiv3,
+.rectangleDiv4,
+.rectangleDiv5,
+.rectangleDiv6 {
+    position: absolute;
+    top: 1367px;
+    left: 1200px;
+    background-color: var(--color-gray-800);
+    width: 138px;
+    height: 62px;
+}
+
+.rectangleDiv4,
+.rectangleDiv5,
+.rectangleDiv6 {
+    left: 1354px;
+    width: 154px;
+}
+
+.rectangleDiv5,
+.rectangleDiv6 {
+    left: 1524px;
+    width: 146px;
+}
+
+.rectangleDiv6 {
+    left: 1686px;
+    width: 154px;
+}
+
+.everyFightFor,
+.loETokensDiv,
+.resourcesDiv,
+.rewardsDiv,
+.skillMasteryDiv {
+    position: absolute;
+    letter-spacing: 0.04em;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.everyFightFor {
+    top: 1246px;
+    left: 1441px;
+    font-size: var(--font-size-2xl);
+    color: var(--loe-orange100);
+}
+
+.loETokensDiv,
+.resourcesDiv,
+.rewardsDiv,
+.skillMasteryDiv {
+    top: 1387px;
+    left: 1227px;
+    font-size: var(--font-size-lg);
+}
+
+.loETokensDiv,
+.rewardsDiv,
+.skillMasteryDiv {
+    left: 1385px;
+}
+
+.rewardsDiv,
+.skillMasteryDiv {
+    left: 1562px;
+}
+
+.skillMasteryDiv {
+    left: 1710px;
+}
+
+.rectangleIcon,
+.rectangleIcon1 {
+    position: absolute;
+    top: 405px;
+    left: calc(50% - -56px);
+    width: 464px;
+    height: 10px;
+}
+
+.rectangleIcon1 {
+    top: 634px;
+}
+
+.rectangleIcon2,
+.rectangleIcon3 {
+    position: absolute;
+    top: 700px;
+    left: calc(50% - 560px);
+    width: 544px;
+    height: 10px;
+}
+
+.rectangleIcon3 {
+    top: 762px;
+    left: calc(50% - -56px);
+    width: 464px;
+}
+
+.sHARPNELCatapultDiv {
+    position: absolute;
+    top: 265px;
+    left: 1336px;
+    font-size: var(--font-size-2xl);
+    line-height: 22px;
+    font-family: var(--font-brookline);
+    text-align: left;
+    display: inline-block;
+}
+
+.pngegg21 {
+    position: absolute;
+    top: 305px;
+    left: 720px;
+    width: 544px;
+    height: 365px;
+    object-fit: cover;
+}
+
+.earnAutomaticStakingRewards {
+    position: absolute;
+    top: 303px;
+    left: 1336px;
+    font-size: var(--font-size-sm);
+    line-height: 22px;
+    color: var(--anvuinew-gray60);
+    text-align: left;
+    display: inline-block;
+    width: 324px;
+}
+
+.ellipseIcon {
+    position: absolute;
+    top: 265px;
+    left: 1684px;
+    border-radius: var(--br-md);
+    width: 116px;
+    height: 116px;
+}
+
+.leftDiv {
+    position: absolute;
+    top: 32px;
+    left: 7px;
+    line-height: 18px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.uSDSpan {
+    font-size: var(--font-size-xs);
+}
+
+.uSDDiv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 24px;
+    font-weight: 600;
+    color: var(--anvuinew-white);
+    display: inline-block;
+    font-size: var(--font-size-lg);
+}
+
+.groupDiv2 {
+    position: absolute;
+    top: 298px;
+    left: 1711px;
+    width: 63px;
+    height: 50px;
+    font-size: var(--font-size-xs);
+    color: var(--anvuinew-gray60);
+    font-family: var(--font-be-vietnam-pro);
+}
+
+.amountDiv,
+.mapProbabilityDiv,
+.paymentOptionsDiv {
+    position: absolute;
+    top: 431px;
+    left: 1336px;
+    font-size: var(--font-size-sm);
+    line-height: 22px;
+    font-weight: 600;
+    text-align: left;
+    display: inline-block;
+}
+
+.mapProbabilityDiv,
+.paymentOptionsDiv {
+    top: 534px;
+    line-height: 24px;
+}
+
+.mapProbabilityDiv {
+    top: 720px;
+    left: 720px;
+}
+
+.div,
+.playersMapDiv {
+    position: relative;
+    line-height: 18px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.div {
+    font-size: var(--font-size-2xl);
+    line-height: 34px;
+    font-weight: 600;
+    font-family: var(--font-cabin);
+    color: var(--anvuinew-white);
+    text-align: left;
+}
+
+.frameDiv3,
+.frameDiv4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.frameDiv3 {
+    position: absolute;
+    top: 760px;
+    left: 720px;
+    flex-direction: row;
+    gap: var(--gap-3xl);
+    font-size: var(--font-size-xs);
+    color: var(--anvuinew-gray60);
+    font-family: var(--font-be-vietnam-pro);
+}
+
+.applyDiscountDiv,
+.howToBuy {
+    top: 788px;
+    font-size: var(--font-size-sm);
+    text-decoration: underline;
+    line-height: 24px;
+}
+
+.applyDiscountDiv {
+    position: absolute;
+    left: 1336px;
+    font-weight: 600;
+    text-align: left;
+    display: inline-block;
+}
+
+.howToBuy {
+    left: 1724px;
+    text-align: right;
+}
+
+.calculateRevenueDiv,
+.howToBuy,
+.priceDiv {
+    position: absolute;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.calculateRevenueDiv {
+    top: 1678px;
+    left: 835px;
+    text-decoration: underline;
+    line-height: 24px;
+    color: var(--loe-orange100);
+}
+
+.priceDiv {
+    top: 431px;
+    left: 1573px;
+    font-size: var(--font-size-sm);
+    line-height: 22px;
+    text-align: left;
+}
+
+.uSDSpan1 {
+    font-size: var(--font-size-base);
+}
+
+.uSDDiv1 {
+    position: absolute;
+    top: 471px;
+    left: calc(50% - -293px);
+    font-weight: 500;
+    text-align: left;
+    display: inline-block;
+    font-size: var(--font-size-2xl);
+}
+
+.rectangleIcon4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 54px;
+    height: 48px;
+}
+
+.div4 {
+    position: absolute;
+    top: 12px;
+    left: 17px;
+    line-height: 22px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.frameDiv9,
+.groupDiv3 {
+    position: relative;
+    flex-shrink: 0;
+}
+
+.groupDiv3 {
+    width: 54px;
+    height: 48px;
+}
+
+.frameDiv9 {
+    border-radius: var(--br-sm);
+    background-color: var(--color-gray-600);
+    border: 1px solid var(--anvuinew-gray100);
+    box-sizing: border-box;
+    width: 73px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-md) 32px;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--font-size-2xl);
+    color: var(--anvuinew-white);
+}
+
+.div6 {
+    position: absolute;
+    top: 10px;
+    left: 16px;
+    line-height: 22px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.frameDiv8 {
+    position: absolute;
+    top: 461px;
+    left: 1336px;
+    width: 197px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+    font-size: var(--font-size-4xl);
+    color: var(--loe-orange100);
+}
+
+.tUSDTDiv {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.arrowDownIcon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.frameDiv10 {
+    position: absolute;
+    top: 566px;
+    left: 1334px;
+    border-radius: var(--br-sm);
+    background-color: var(--color-gray-600);
+    border: 1px solid var(--anvuinew-gray100);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-md) var(--padding-xl);
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-md);
+}
+
+.totalDiv,
+.uSDDiv2 {
+    position: absolute;
+    text-align: left;
+    display: inline-block;
+}
+
+.totalDiv {
+    top: 431px;
+    left: 1703px;
+    font-size: var(--font-size-sm);
+    line-height: 22px;
+    font-weight: 600;
+}
+
+.uSDDiv2 {
+    top: 471px;
+    left: calc(50% - -423px);
+    font-weight: 500;
+    color: var(--loe-orange100);
+    font-size: var(--font-size-2xl);
+}
+
+.navigationIcon {
+    position: relative;
+    width: 15px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.backDiv {
+    position: relative;
+    line-height: 24px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.frameDiv11 {
+    position: absolute;
+    top: 225px;
+    left: 720px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-md);
+    cursor: pointer;
+    text-align: left;
+}
+
+.rectangleIcon6 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.vISITMARKETPLACEDiv {
+    position: absolute;
+    top: calc(50% - 4px);
+    left: calc(50% - 47.5px);
+    display: inline-block;
+}
+
+.buttonDiv {
+    position: absolute;
+    top: 566px;
+    left: calc(50% - -197px);
+    width: 323px;
+    height: 44px;
+    color: var(--loe-orange100);
+    font-family: var(--font-brookline);
+}
+
+.vISITMARKETPLACEDiv1 {
+    position: absolute;
+    top: calc(50% - 4px);
+    left: calc(50% - 100px);
+    display: inline-block;
+}
+
+.buttonDiv1 {
+    position: absolute;
+    top: 690px;
+    left: calc(50% - -54px);
+    width: 466px;
+    height: 48px;
+    font-family: var(--font-brookline);
+}
+
+.rectangleIcon8 {
+    position: absolute;
+    width: 18.2%;
+    top: 1531px;
+    right: 31.52%;
+    left: 50.27%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 64px;
+}
+
+.gENERATEARENAGENESISNFTROY,
+.orDiv {
+    position: absolute;
+    display: inline-block;
+}
+
+.gENERATEARENAGENESISNFTROY {
+    top: 1555px;
+    left: calc(50% - -60px);
+    font-size: var(--font-size-2xl);
+    font-family: var(--font-brookline);
+    color: var(--loe-orange100);
+}
+
+.orDiv {
+    top: 660px;
+    left: 1562px;
+    font-size: var(--font-size-sm);
+    line-height: 22px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.rectangleDiv7 {
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 272px);
+    border-radius: var(--br-sm);
+    background-color: var(--color-gray-600);
+    border: 1px solid var(--anvuinew-gray100);
+    box-sizing: border-box;
+    width: 544px;
+    height: 48px;
+}
+
+.enterYourEmail {
+    position: absolute;
+    bottom: 13px;
+    left: calc(50% - 256px);
+    line-height: 22px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.cONNECTWALLETDiv {
+    position: relative;
+    display: inline-block;
+    width: 131px;
+    flex-shrink: 0;
+}
+
+.cwDiv,
+.frameDiv12 {
+    position: absolute;
+    height: 40px;
+}
+
+.frameDiv12 {
+    top: 0;
+    left: calc(50% - 81.5px);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-lg) var(--padding-xl) var(--padding-2xs);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+
+.cwDiv {
+    bottom: 4px;
+    left: calc(50% - -179px);
+    width: 89px;
+    color: var(--loe-orange100);
+    font-family: var(--font-brookline);
+}
+
+.groupDiv5 {
+    position: absolute;
+    bottom: 636px;
+    left: calc(50% - 272px);
+    width: 544px;
+    height: 48px;
+    color: var(--anvuinew-gray100);
+}
+
+.subscribeToOurMailingList {
+    position: absolute;
+    bottom: 700px;
+    left: calc(50% - 94px);
+    line-height: 22px;
+    font-weight: 500;
+    color: var(--anvuinew-gray60);
+    display: inline-block;
+}
+
+.vector5Stroke,
+.vector5Stroke1 {
+    position: absolute;
+    top: 46.11px;
+    left: calc(50% - -102.04px);
+    width: 50.91px;
+    height: 50.82px;
+    opacity: 0.8;
+}
+
+.vector5Stroke1 {
+    top: 0.07px;
+    left: calc(50% - 152.95px);
+}
+
+.hOWCANIEARN {
+    position: absolute;
+    top: 31.03px;
+    left: calc(50% - 119.91px);
+    display: inline-block;
+}
+
+.groupDiv6 {
+    position: absolute;
+    top: 932px;
+    left: calc(50% - 153px);
+    width: 305.91px;
+    height: 97px;
+    font-size: var(--font-size-3xl);
+    font-family: var(--font-brookline);
+}
+
+.automaticStakingRewardsBefo {
+    position: absolute;
+    top: 1142px;
+    left: 720px;
+    font-size: var(--font-size-2xl);
+    letter-spacing: 0.04em;
+    font-weight: 600;
+    display: inline-block;
+    width: 352px;
+}
+
+.earlyInvestorsWillHaveRece,
+.fromLoENFTStakingRewards {
+    position: absolute;
+    top: 1320px;
+    left: 784px;
+    letter-spacing: 0.04em;
+    font-weight: 600;
+    display: inline-block;
+    width: 224px;
+}
+
+.fromLoENFTStakingRewards {
+    top: 1474px;
+}
+
+.onceBattleArenaGoesLiveIt {
+    top: 1616px;
+    left: 720px;
+    width: 352px;
+}
+
+.aPYDiv,
+.div7,
+.onceBattleArenaGoesLiveIt,
+.passiveIncomeFromEveryActi {
+    position: absolute;
+    letter-spacing: 0.04em;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.div7 {
+    top: 1382px;
+    left: 766px;
+    font-size: 56px;
+}
+
+.aPYDiv,
+.passiveIncomeFromEveryActi {
+    top: 1413px;
+    left: 980px;
+    font-size: var(--font-size-2xl);
+}
+
+.passiveIncomeFromEveryActi {
+    top: 1142px;
+    left: 1200px;
+    width: 544px;
+}
+
+.ellipseIcon1 {
+    position: absolute;
+    top: 1240px;
+    left: 720px;
+    border-radius: var(--br-md);
+    width: 352px;
+    height: 352px;
+}
+
+.vectorIcon3,
+.vectorIcon4 {
+    position: absolute;
+    top: 1299px;
+    left: 1268.5px;
+    width: 496px;
+    height: 52px;
+}
+
+.vectorIcon4 {
+    top: 1453px;
+    height: 68px;
+}
+
+.rectangleDiv8 {
+    position: absolute;
+    top: 40.01px;
+    left: calc(50% - 1280px);
+    background-color: var(--color-gray-1000);
+    backdrop-filter: blur(12px);
+    width: 2560px;
+    height: 88.02px;
+}
+
+.rectangleDiv9 {
+    top: 128.03px;
+    background-color: var(--anvuinew-gray100);
+    height: 1px;
+}
+
+.rectangleDiv10,
+.rectangleDiv11,
+.rectangleDiv9 {
+    position: absolute;
+    left: calc(50% - 1280px);
+    width: 2560px;
+}
+
+.rectangleDiv10 {
+    top: 0;
+    background-color: var(--color-gray-1100);
+    backdrop-filter: blur(12px);
+    height: 40.01px;
+}
+
+.rectangleDiv11 {
+    top: 40.01px;
+    background-color: var(--color-gray-700);
+    height: 89.02px;
+    display: none;
+}
+
+.image1Icon1 {
+    position: absolute;
+    top: 56.01px;
+    left: calc(50% - 161px);
+    width: 322px;
+    height: 56.01px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.frameDiv13 {
+    position: absolute;
+    top: 8px;
+    left: calc(50% - 560px);
+    height: 24px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-lg);
+}
+
+.rectangleDiv13 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 1280px);
+    background-color: var(--loe-orange100);
+    width: 2560px;
+    height: 1px;
+}
+
+.tokenomicsA,
+.tokenomicsDiv1 {
+    position: absolute;
+    line-height: 22px;
+    display: inline-block;
+}
+
+.tokenomicsA {
+    top: 14px;
+    left: 39px;
+    letter-spacing: 0.04em;
+    color: inherit;
+}
+
+.tokenomicsDiv1 {
+    top: 68px;
+    left: 33px;
+    font-size: var(--font-size-xl);
+    color: var(--loe-orange100);
+}
+
+.menuTextDiv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 160px;
+    height: 50px;
+    overflow: hidden;
+}
+
+.recIcon {
+    position: absolute;
+    top: 60px;
+    left: 72px;
+    width: 16.97px;
+    height: 24.97px;
+}
+
+.component1Div {
+    position: absolute;
+    top: 60.01px;
+    left: calc(50% - 560px);
+    width: 160px;
+    height: 84.99px;
+}
+
+.whitepaper,
+.whitepaperDiv {
+    position: absolute;
+    line-height: 22px;
+    display: inline-block;
+}
+
+.whitepaper {
+    top: 14px;
+    left: 41px;
+    letter-spacing: 0.04em;
+    color: inherit;
+}
+
+.whitepaperDiv {
+    top: 68px;
+    left: 34px;
+    font-size: var(--font-size-xl);
+    color: var(--loe-orange100);
+}
+
+.component1Div1 {
+    position: absolute;
+    top: 60.01px;
+    left: calc(50% - 368px);
+    width: 160px;
+    height: 84.99px;
+}
+
+.marketplaceDiv,
+.marketplaceDiv1 {
+    position: absolute;
+    top: -40px;
+    left: 38px;
+    line-height: 22px;
+    display: inline-block;
+}
+
+.marketplaceDiv1 {
+    top: 14px;
+    left: 28px;
+    font-size: var(--font-size-xl);
+    color: var(--loe-orange100);
+}
+
+.rec3Icon {
+    position: absolute;
+    top: 52px;
+    left: 72px;
+    width: 16.97px;
+    height: 24.97px;
+}
+
+.component1Div2 {
+    position: absolute;
+    top: 60.01px;
+    left: calc(50% - -208px);
+    width: 160px;
+    height: 84.99px;
+}
+
+.teamDiv,
+.teamDiv1 {
+    position: absolute;
+    line-height: 22px;
+    display: inline-block;
+}
+
+.teamDiv {
+    top: 14px;
+    left: 63px;
+    letter-spacing: 0.04em;
+}
+
+.teamDiv1 {
+    top: 68px;
+    left: 57px;
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    font-family: var(--font-cabin);
+    color: var(--loe-orange100);
+}
+
+.component1Div3 {
+    position: absolute;
+    top: 60.01px;
+    left: calc(50% - -400px);
+    width: 160px;
+    height: 84.99px;
+}
+
+.cwDiv1,
+.groupDiv7 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 1280px);
+    width: 2560px;
+    height: 145px;
+    font-family: var(--font-brookline);
+}
+
+.cwDiv1 {
+    left: calc(50% - -437px);
+    width: 131px;
+    height: 40px;
+    color: var(--loe-orange100);
+}
+
+.itemDetailDiv {
+    position: relative;
+    background-color: var(--color-gray-700);
+    width: 100%;
+    height: 2544px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: var(--anvuinew-white);
+    font-family: var(--font-cabin);
+}
